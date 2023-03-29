@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrDLG4_MIP_0001	gccactggagagtagcgccgaggggaagtCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNcaggataaaggagatg	chrDLG4	21814	21975	N	chrDLG4_indel_guide_1	+	16	117

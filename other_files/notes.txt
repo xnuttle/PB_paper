@@ -1,0 +1,1 @@
+It is sometimes necessary to perform manual indel correction, e.g., for MIP targets containing homopolymers, where PCR errors and sequencing errors can lead to artifactual indels within the homopolymer that are not CRISPR-mediated but that are called by the automated genotyper as present in most or all recovered iPSC lines.

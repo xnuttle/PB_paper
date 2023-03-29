@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrPOGZ_MIP_0001	atcacctgtgatccagcttaagtggcttCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtcttctcacttctttc	chrPOGZ	49918	50079	N	chrPOGZ_indel_guide_5	-	28	118

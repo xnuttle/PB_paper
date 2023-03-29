@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrMYT1L_MIP_0001	gcatcctcagcgattttgccgaggtttaaCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtctaacaacatcactg	chrMYT1L	147992	148153	N	chrMYT1L_indel_guide_22	+	16	117

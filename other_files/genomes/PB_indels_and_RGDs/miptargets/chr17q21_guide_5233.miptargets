@@ -1,0 +1,3 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chr17q21_guide_5233_MIP_0001	cgttatcaacttgaaaaagtggCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtatgcttaccgtaacttg	chr17q21_guide_5233	20	172	N	none	+	18	113
+chr17q21_guide_5233_MIP_0002	gctagctaggtcttgaaaggCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNatcttgtggaaaggacgaaa	chr17q21_guide_5233	66	218	N	none	+	20	113

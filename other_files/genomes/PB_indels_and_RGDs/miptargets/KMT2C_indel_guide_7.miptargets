@@ -1,0 +1,3 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+KMT2C_indel_guide_7_MIP_0001	cgttatcaacttgaaaaagtggCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtatgcttaccgtaacttg	KMT2C_indel_guide_7	20	172	N	none	+	18	113
+KMT2C_indel_guide_7_MIP_0002	gctagctaggtcttgaaaggCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNatcttgtggaaaggacgaaa	KMT2C_indel_guide_7	66	218	N	none	+	20	113

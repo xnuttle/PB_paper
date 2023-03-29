@@ -1,0 +1,3 @@
+chrPLASMIDS.fasta is a combination of pXN1Ds, pXN1P2, pXN758, pXN1163, pSPBase, and pXPBase-GFP3, with regions contained in two or more of these plasmids only present once.
+This sequence is a combination of C:\Users\Xander\Documents\Microdeletion_Microduplication_Project\scalable_genome_engineering_method\RGD_MIP_orders\PB_plasmids_Nov2020\pPLASMIDS.dna
+and XPBase and EGFP coding sequences from C:\Users\Xander\Documents\Microdeletion_Microduplication_Project\scalable_genome_engineering_method\piggyBac_CRISPR_library_approach\gRNA_scaffold_plasmids_plan\D_series\pSPBase_validated.dna

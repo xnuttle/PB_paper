@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrANK2_MIP_0001	gtttctcattctagatagcagtaaatgCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNgtcatatctttgcttt	chrANK2	440464	440625	N	chrANK2_indel_guide_1	+	16	119

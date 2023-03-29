@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrFOXP1_MIP_0001	gcagcacctcctgtctttgcCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtgtccatacttttaaccttc	chrFOXP1	122008	122159	N	chrFOXP1_indel_guide_7	-	20	112

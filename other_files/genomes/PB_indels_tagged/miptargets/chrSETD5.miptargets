@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrSETD5_MIP_0001	gattcaggggcttcagtttttgtctcttCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNagcaaaggtgaggatg	chrSETD5	72192	72353	N	chrSETD5_indel_guide_2	-	28	118

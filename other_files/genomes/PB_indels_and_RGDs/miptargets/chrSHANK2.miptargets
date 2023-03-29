@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrSHANK2_MIP_0001	gtgtaagcccagggacagccaggCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNaggccctccacgtcccc	chrSHANK2	348446	348607	E	chrSHANK2_indel_guide_4	-	23	122

@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrSYNGAP1_MIP_0001	gaagatggaccgggctggcggggCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNgggaccggaggagcgag	chrSYNGAP1	25817	25978	N	chrSYNGAP1_indel_guide_2	+	17	122

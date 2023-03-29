@@ -1,0 +1,3 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrCHD2_MIP_0001	gtactggatttcaccttcatccttttcagCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNaccattgtttgatttc	chrCHD2	67909	68070	N	chrCHD2_indel_guide_2	-	29	117
+chrCHD2_MIP_0002	cattatggggaccggcgacatatggatgCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtcattctttcttttcct	chrCHD2	144991	145152	N	CHD2_Q1641X_ngRNA/CHD2_Q1641X_pegRNA/CHD2_Q1641X/CHD2_G1649fs_pegRNA/CHD2_G1649fs/CHD2_G1649fs_ngRNA	+	17	117

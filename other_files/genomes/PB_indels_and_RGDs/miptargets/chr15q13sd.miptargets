@@ -1,0 +1,3 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chr15q13sd_MIP_0001	gcagtgtgaattcccttccctgtCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtatcattccactggggc	chr15q13sd	2831	2982	N	chr15q13_guide_784	-	23	112
+chr15q13sd_MIP_0002	cctacacctccctgtctgcgCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNttaacacttaagtggtctgc	chr15q13sd	5021	5172	N	chr15q13_guide_917	+	20	112

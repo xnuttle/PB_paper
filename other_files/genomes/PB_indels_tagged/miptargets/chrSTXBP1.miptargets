@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrSTXBP1_MIP_0001	gtgagcatgcgctctgcacttgagcagtgCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNagaatcacagcagatg	chrSTXBP1	93664	93825	N	chrSTXBP1_indel_guide_2	+	16	117

@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrMAGEL2_MIP_0001	atggaagggcagtgcacagcctCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNggcaggggctgccaga	chrMAGEL2	15851	16010	N	MAGEL2_E605X/MAGEL2_E605X_pegRNA/MAGEL2_E605X_ngRNA/chrMAGEL2_indel_guide_8	+	16	122

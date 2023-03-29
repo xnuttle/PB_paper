@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrKDM5B_MIP_0001	caattttggtccattttctatccCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNggctagcccccaaactt	chrKDM5B	73099	73250	N	chrKDM5B_indel_guide_3	+	17	112

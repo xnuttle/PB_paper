@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrASXL3_MIP_0001	gctcttaaacaggtaagatagctgccattCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtcattatctctctctg	chrASXL3	111593	111754	N	chrASXL3_indel_guide_10	+	16	117

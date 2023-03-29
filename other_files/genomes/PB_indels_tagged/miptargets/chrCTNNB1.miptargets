@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrCTNNB1_MIP_0001	gcgtgtctggaagcttcctttttagCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtaaagatggccagtaagccc	chrCTNNB1	40374	40535	N	chrCTNNB1_indel_guide_1	-	25	117

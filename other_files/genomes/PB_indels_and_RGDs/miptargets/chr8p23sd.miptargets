@@ -1,0 +1,4 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chr8p23sd_MIP_0001	cctacgtgttttcttctgcactgCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNaatggggctgcatccat	chr8p23sd	209780	209931	N	none	-	23	112
+chr8p23sd_MIP_0002	gaaaggaaagtctttacaagggCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNaaagaatttgggactcca	chr8p23sd	227112	227263	N	none	-	22	112
+chr8p23sd_MIP_0003	cccttgataactctctcctagaCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNggtaagcagcatcatcct	chr8p23sd	268122	268273	N	none	+	18	112

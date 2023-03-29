@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrSIN3A_MIP_0001	acaagtatttctaatggagaggtactcCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNcactgtcaagaagcccc	chrSIN3A	59774	59935	N	chrSIN3A_indel_guide_12	-	27	118

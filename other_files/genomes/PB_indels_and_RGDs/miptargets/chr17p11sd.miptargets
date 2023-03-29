@@ -1,0 +1,3 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chr17p11sd_MIP_0001	caatagccctccccactccaCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtactcaaatctaatcatgtg	chr17p11sd	11934	12085	N	none	-	20	112
+chr17p11sd_MIP_0002	ccttggtgaggcccggaggcCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNgaaggatgtcatcaggattc	chr17p11sd	60332	60483	N	none	+	20	112

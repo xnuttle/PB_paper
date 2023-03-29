@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrPHF21A_MIP_0001	ggttgcagtctgcccattgaCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtacatactctgcctgtacct	chrPHF21A	45297	45448	N	chrPHF21A_indel_guide_1	+	20	112

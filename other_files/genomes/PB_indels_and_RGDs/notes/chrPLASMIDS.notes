@@ -1,0 +1,1 @@
+chrPLASMIDS.fasta is a concatenation of pPB9v3 bases 1-13640 (with gRNA stuffer sequence replaced by 20 'n's) and pSPBase bases 1350-4550. Thus, regions contained in two or more plasmids used (pPB9v3, pPBXv3, pSPBase) are only present once in chrPLASMIDS.fasta.

@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrDYRK1A_MIP_0001	ggacagcatttcaaaaactaaacCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNgtgaatgatactaagtt	chrDYRK1A	140214	140365	N	chrDYRK1A_indel_guide_1	-	23	112

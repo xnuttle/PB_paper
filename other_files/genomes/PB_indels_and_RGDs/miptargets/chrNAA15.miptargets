@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrNAA15_MIP_0001	gccaacctgattaaagaagctgaagaaatCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNggtttattttgctttt	chrNAA15	84715	84876	N	chrNAA15_indel_guide_2	+	16	117

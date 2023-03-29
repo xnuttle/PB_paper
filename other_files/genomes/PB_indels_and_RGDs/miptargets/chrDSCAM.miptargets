@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrDSCAM_MIP_0001	ggtggtgttggcttccatcgatggagCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNgtgacggggctgctcattg	chrDSCAM	353415	353576	N	chrDSCAM_indel_guide_6	-	26	117

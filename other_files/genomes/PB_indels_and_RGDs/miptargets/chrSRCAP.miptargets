@@ -1,0 +1,2 @@
+Name	Sequence	Contig	Start	End	Type	CRISPR	Strand	Arm1Length	TargetLength
+chrSRCAP_MIP_0001	gtggtggtagcagttgccgtggtggtagaCTTCAGCTTCCCGATATCCGACGGTAGTGTNNNNNNNNtctcatggtcctgagc	chrSRCAP	46377	46538	N	chrSRCAP_indel_guide_3	-	29	117
